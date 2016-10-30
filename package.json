@@ -1,7 +1,7 @@
 {
   "name": "tree-view-stay-right",
   "main": "./lib/tree-view-stay-right",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "While crawling through directories, this package will give tree view the ability to keep all current directories on the right side.",
   "keywords": [
     "tree",
@@ -15,6 +15,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
