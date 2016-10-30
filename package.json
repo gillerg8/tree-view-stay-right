@@ -3,8 +3,14 @@
   "main": "./lib/tree-view-stay-right",
   "version": "0.0.0",
   "description": "While crawling through directories, this package will give tree view the ability to keep all current directories on the right side.",
+  "keywords": [
+    "tree",
+    "view",
+    "stay",
+    "right"
+  ],
   "styles": "./styles/tree-view-stay-right",
-  "repository": "https://github.com/geoffgiller/tree-view-stay-right",
+  "repository": "https://github.com/gillerg8/tree-view-stay-right",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
